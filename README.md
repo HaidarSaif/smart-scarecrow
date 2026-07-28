@@ -21,4 +21,5 @@ Sistem mengintegrasikan Raspberry Pi dan kamera untuk mendeteksi hama burung, ke
 *   `/microcontroller` - Berisi *source code* (C++) untuk ESP32 pengatur aktuator penyiraman dan ultrasonik.
 *   `/mobile_app` - Berisi file aplikasi mobile yang diekspor dari MIT APP Inventor.
 *   `/documentation` - Berisi foto dokumentasi dan laporan akhir proyek.
+<img width="688" height="1467" alt="WhatsApp Image 2026-07-29 at 2 51 07 AM" src="https://github.com/user-attachments/assets/d3a79eed-4ea4-450b-aecf-88a01a4c4467" />
 <img width="1332" height="800" alt="smartscarecrow" src="https://github.com/user-attachments/assets/0f6e968c-2a0c-470b-944c-f5f3540c8267" />
