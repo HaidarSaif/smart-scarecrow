@@ -20,5 +20,5 @@ Sistem mengintegrasikan Raspberry Pi dan kamera untuk mendeteksi hama burung, ke
 *   `/computer_vision` - Berisi *script* inferensi YOLOv5 (Python) dan logika deteksi pada Raspberry Pi.
 *   `/microcontroller` - Berisi *source code* (C++) untuk ESP32 pengatur aktuator penyiraman dan ultrasonik.
 *   `/mobile_app` - Berisi file aplikasi mobile yang diekspor dari MIT APP Inventor.
-*   `/documentation` - Berisi foto dokumentasi.
+*   `/documentation` - Berisi foto dokumentasi dan laporan akhir proyek.
 <img width="1332" height="800" alt="smartscarecrow" src="https://github.com/user-attachments/assets/0f6e968c-2a0c-470b-944c-f5f3540c8267" />
