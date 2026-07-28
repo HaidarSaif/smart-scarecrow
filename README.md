@@ -14,7 +14,7 @@ Sistem mengintegrasikan Raspberry Pi dan kamera untuk mendeteksi hama burung, ke
 
 ## 🚀 Teknologi yang Digunakan
 *   **Hardware:** Raspberry Pi, ESP32, Kamera AI, Sensor pH Tanah, Sensor Kelembapan, Mini PLTS.
-*   **Software:** Python, C++, YOLOv5 (Computer Vision), Mobile App Framework.
+*   **Software:** Python, C++, YOLOv5 (Computer Vision), MIT App Inventor (Mobile App).
 
 ## 📂 Struktur Direktori
 *   `/computer_vision` - Berisi *script* inferensi YOLOv5 (Python) dan logika deteksi pada Raspberry Pi.
